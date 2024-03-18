@@ -1,0 +1,1 @@
+This somewhat complex Typescript/Node.js project is a console-based application.when the system starts the user is prompted with a user id and user pin.After entering the details sucessfully,the ATM funtionalities are unlocked.All the user data is generated randomly.
