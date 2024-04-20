@@ -1,1 +1,1 @@
-Build a countdown Timer
+Build a countdown Timer using the date module
